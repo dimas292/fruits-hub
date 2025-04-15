@@ -23,7 +23,7 @@ export default function Home() {
           <Image src="/placeholder.svg?height=96&width=96" alt="Fruit Hub Logo" fill className="object-contain" />
         </div>
         <div className="bg-orange-500 rounded-lg px-6 py-2">
-          <span className="text-primary font-medium text-lg">Deems store</span>
+          <span className="text-primary font-medium text-lg">Deems store .com</span>
         </div>
       </div>
     </main>
